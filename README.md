@@ -6,6 +6,15 @@
 Gym Management and gym workout - your all-in-one solution for your fitness centre's operations and enhancing your members' experience.
 Say goodbye to paperwork, and say hello to efficiency and digital gym management for bodybuilders and all home workouts and gym workout lovers.
 
+**Tech Used**
+- 💿 Firebase and File manager
+- 🏛️ MVVM Architecture
+- ✍️ Combine and URLSession
+- 👦 Google and Apple sign-in
+- 🎨 SwiftUI
+- 🏦 App Storage
+- 📦 Swift Package Manager
+
 <p align="center">
   <img src="https://github.com/Farid022/Portfolio/assets/107756341/01ef7a6c-2b37-4bbd-8ad1-fe9d35b6c9d7" width="150"/>
   <img src="https://github.com/Farid022/Portfolio/assets/107756341/4edc306d-897b-44b6-b1cc-48ed1bd5fcdc" width="150"/>
