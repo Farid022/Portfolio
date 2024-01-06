@@ -1,4 +1,4 @@
-![Blue Modern Japan Travel Vlog YouTube Thumbnail](https://github.com/Farid022/Portfolio/assets/107756341/9098115a-7211-4535-852f-35482333cbce)
+<img width="1078" alt="Screenshot 2024-01-06 at 6 38 31 PM" src="https://github.com/Farid022/Portfolio/assets/107756341/dba1d827-e03b-4112-9392-ee87e66f56dd">
 
 ### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
 
