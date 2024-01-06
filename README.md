@@ -2,11 +2,12 @@
 
 ### 👋 Hi! I'm an iOS Developer. Here's a bit about my Apps. 
 
-# [1. GyMaster Gym Management](https://apps.apple.com/us/app/gymaster/id6463846522)
+## [1. GyMaster Gym Management](https://apps.apple.com/us/app/gymaster/id6463846522)
 Gym Management and gym workout - your all-in-one solution for your fitness centre's operations and enhancing your members' experience.
 Say goodbye to paperwork, and say hello to efficiency and digital gym management for bodybuilders and all home workouts and gym workout lovers.
 
 **Tech Used**
+- 🎨 SwiftUI
 - 💿 Firebase and File manager
 - 🏛️ MVVM Architecture
 - ✍️ Combine and URLSession
@@ -20,6 +21,22 @@ Say goodbye to paperwork, and say hello to efficiency and digital gym management
   <img src="https://github.com/Farid022/Portfolio/assets/107756341/be4d2ec4-6a18-4f7b-919f-a7b4ca046e0d" width="150"/>
 </p>
 
+## [1. Twifty Quiz ](https://apps.apple.com/pk/app/twifty-quiz/id6464455110))
+Are you passionate about iOS app development and the Swift programming language? Ready to put your Swift knowledge to the test?
+Look no further! Introducing Twifty Quiz, the ultimate quiz app designed for aspiring Swift developers and programming enthusiasts.
+
+**Tech Used**
+- 🎨 SwiftUI
+- 💿 CoreData
+- 🏛️ MVVM Architecture
+- 🕐 Timers
+
+<p align="center">
+  <img src="https://github.com/Farid022/Portfolio/assets/107756341/01ef7a6c-2b37-4bbd-8ad1-fe9d35b6c9d7" width="150"/>
+  <img src="https://github.com/Farid022/Portfolio/assets/107756341/4edc306d-897b-44b6-b1cc-48ed1bd5fcdc" width="150"/>
+  <img src="https://github.com/Farid022/Portfolio/assets/107756341/833e2936-7c22-4ff8-8d08-6a95a890d967" width="150"/>
+  <img src="https://github.com/Farid022/Portfolio/assets/107756341/be4d2ec4-6a18-4f7b-919f-a7b4ca046e0d" width="150"/>
+</p>
 
 
 
