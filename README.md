@@ -1,10 +1,10 @@
 <img width="1078" alt="Screenshot 2024-01-06 at 6 38 31 PM" src="https://github.com/Farid022/Portfolio/assets/107756341/9098115a-7211-4535-852f-35482333cbce">
-
 ### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've worked on.
 
 # [GyMaster Gym Management](https://apps.apple.com/us/app/gymaster/id6463846522)
 (My FYP)
 I've had the opportunity to contribute to this incredible iOS App. Using SwiftUI, I've helped refresh some of the designs, implement a new generic Calendar and Chart layer for users to add to their watch faces, and help with various bug fixes.
+<img width="1078" alt="Screenshot 2024-01-06 at 6 38 31 PM" src="https://github.com/Farid022/Portfolio/assets/107756341/4498509a-d55a-4408-a6da-d0eb04cb69c0">
 
 
 
