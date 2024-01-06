@@ -1,4 +1,25 @@
-<img width="1078" alt="Screenshot 2024-01-06 at 6 38 31 PM" src="https://github.com/Farid022/Portfolio/assets/107756341/dba1d827-e03b-4112-9392-ee87e66f56dd">
+<img width="1078" alt="Screenshot 2024-01-06 at 6 38 31 PM" src="https://github.com/Farid022/Portfolio/assets/107756341/9098115a-7211-4535-852f-35482333cbce">
+
+### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've worked on.
+
+# [GyMaster Gym Management](https://apps.apple.com/us/app/gymaster/id6463846522)
+(My FYP)
+I've had the opportunity to contribute to this incredible iOS App. Using SwiftUI, I've helped refresh some of the designs, implement a new generic Calendar and Chart layer for users to add to their watch faces, and help with various bug fixes.
+
+
+
+## The UI of GyMaster App 👀
+Here are a few updates I've been hacking away at for Magic Budget. This update is yet to be ready for the App Store, but here's a sneak peek at some new things coming to Magic Budget in the next update!
+
+<p align="center">
+ <img src="https://github.com/Farid022/Portfolio/assets/107756341/01ef7a6c-2b37-4bbd-8ad1-fe9d35b6c9d7", width="200"/>
+ <img src="https://github.com/Farid022/Portfolio/assets/107756341/4edc306d-897b-44b6-b1cc-48ed1bd5fcdc", width="200"/>
+ <img src="https://github.com/Farid022/Portfolio/assets/107756341/833e2936-7c22-4ff8-8d08-6a95a890d967", width="200"/>
+ <img src="https://github.com/Farid022/Portfolio/assets/107756341/be4d2ec4-6a18-4f7b-919f-a7b4ca046e0d", width="200"/>
+</p>
+
+
+
 
 ### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
 
