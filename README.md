@@ -7,9 +7,9 @@ Gym Management and gym workout - your all-in-one solution for your fitness centr
 Say goodbye to paperwork, and say hello to efficiency and digital gym management for bodybuilders and all home workouts and gym workout lovers.
 
 <p align="center">
-  <img src="https://github.com/Farid022/Portfolio/assets/107756341/01ef7a6c-2b37-4bbd-8ad1-fe9d35b6c9d7" width="200" style="margin-right: 10px"/>
-  <img src="https://github.com/Farid022/Portfolio/assets/107756341/4edc306d-897b-44b6-b1cc-48ed1bd5fcdc" width="200" style="margin-right: 10px"/>
-  <img src="https://github.com/Farid022/Portfolio/assets/107756341/833e2936-7c22-4ff8-8d08-6a95a890d967" width="200" style="margin-right: 10px"/>
+  <img src="https://github.com/Farid022/Portfolio/assets/107756341/01ef7a6c-2b37-4bbd-8ad1-fe9d35b6c9d7" width="200" style="margin-right: 30px"/>
+  <img src="https://github.com/Farid022/Portfolio/assets/107756341/4edc306d-897b-44b6-b1cc-48ed1bd5fcdc" width="200" style="margin-right: 20px"/>
+  <img src="https://github.com/Farid022/Portfolio/assets/107756341/833e2936-7c22-4ff8-8d08-6a95a890d967" width="200" style="margin-right: 40px"/>
   <img src="https://github.com/Farid022/Portfolio/assets/107756341/be4d2ec4-6a18-4f7b-919f-a7b4ca046e0d" width="200"/>
 </p>
 
