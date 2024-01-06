@@ -1,6 +1,6 @@
 <img width="1082" alt="Screenshot 2024-01-06 at 8 26 53 PM" src="https://github.com/Farid022/Portfolio/assets/107756341/5b038a94-d54c-4499-a5a9-6b04a196f46f">
 
-# 👋 Hi! I'm an iOS Developer. Here's my Apps lived on AppStore 
+# 👋 Hi! I'm an iOS Developer. Here's a bit about my Apps. 
 
 # [1. GyMaster Gym Management](https://apps.apple.com/us/app/gymaster/id6463846522)
 Gym Management and gym workout - your all-in-one solution for your fitness centre's operations and enhancing your members' experience.
