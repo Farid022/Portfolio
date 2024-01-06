@@ -1,4 +1,4 @@
-<img width="704" alt="Screenshot 2024-01-06 at 8 24 28 PM" src="https://github.com/Farid022/Portfolio/assets/107756341/93210a9a-7ada-4349-b746-e75701bf167e">
+<img width="1082" alt="Screenshot 2024-01-06 at 8 26 53 PM" src="https://github.com/Farid022/Portfolio/assets/107756341/5b038a94-d54c-4499-a5a9-6b04a196f46f">
 
 # 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've worked on.
 
@@ -13,7 +13,7 @@
 
 
 
-### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
+# 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
 
 # [Clockology](https://apps.apple.com/us/app/clockology/id1456386228)
 (Contract Work)
