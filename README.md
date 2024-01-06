@@ -1,5 +1,6 @@
-<img width="1078" alt="Screenshot 2024-01-06 at 6 38 31 PM" src="https://github.com/Farid022/Portfolio/assets/107756341/4498509a-d55a-4408-a6da-d0eb04cb69c0">
-### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've worked on.
+<img width="704" alt="Screenshot 2024-01-06 at 8 24 28 PM" src="https://github.com/Farid022/Portfolio/assets/107756341/93210a9a-7ada-4349-b746-e75701bf167e">
+
+# 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've worked on.
 
 # [GyMaster Gym Management](https://apps.apple.com/us/app/gymaster/id6463846522)
 <p align="center">
