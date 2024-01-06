@@ -11,9 +11,7 @@ Say goodbye to paperwork, and say hello to efficiency and digital gym management
 - 🏛️ MVVM Architecture
 - ✍️ Combine and URLSession
 - 👦 Google and Apple sign-in
-- 🎨 SwiftUI
 - 🏦 App Storage
-- 📦 Swift Package Manager
 
 <p align="center">
   <img src="https://github.com/Farid022/Portfolio/assets/107756341/01ef7a6c-2b37-4bbd-8ad1-fe9d35b6c9d7" width="150"/>
