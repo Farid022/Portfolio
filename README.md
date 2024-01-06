@@ -21,7 +21,7 @@ Say goodbye to paperwork, and say hello to efficiency and digital gym management
   <img src="https://github.com/Farid022/Portfolio/assets/107756341/be4d2ec4-6a18-4f7b-919f-a7b4ca046e0d" width="150"/>
 </p>
 
-## [1. Twifty Quiz ](https://apps.apple.com/pk/app/twifty-quiz/id6464455110))
+## [1. Twifty Quiz ](https://apps.apple.com/pk/app/twifty-quiz/id6464455110)
 Are you passionate about iOS app development and the Swift programming language? Ready to put your Swift knowledge to the test?
 Look no further! Introducing Twifty Quiz, the ultimate quiz app designed for aspiring Swift developers and programming enthusiasts.
 
