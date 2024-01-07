@@ -35,14 +35,13 @@ Look no further! Introducing Twifty Quiz, the ultimate quiz app designed for asp
   <img src="https://github.com/Farid022/Portfolio/assets/107756341/84ecd2ef-aa78-4df4-b352-c69f7c0dd4c9" width="140"/>
   <img src="https://github.com/Farid022/Portfolio/assets/107756341/a019c78e-c3db-448a-8ef7-a8316742a640" width="140"/>
   <img src="https://github.com/Farid022/Portfolio/assets/107756341/5da8801d-0383-4310-9723-3c6e4753e8d6" width="140"/>
-  <img src="https://github.com/Farid022/Portfolio/assets/107756341/b10d52d3-514d-402c-b2f0-ec86e838db54" width="140"/>
+  <img src="https://github.com/Farid022/Portfolio/assets/107756341/4fee17e2-796c-4bf4-900e-1fa4916d3237" width="140"/>
   <img src="https://github.com/Farid022/Portfolio/assets/107756341/8eeb531e-dd38-4b8b-88b1-edcb2db2ee86" width="140"/>
 </p>
 
 
 
 <!-- 
-
 ## Sneak Peek 👀
 Here are a few updates I've been hacking away at for Magic Budget. This update is yet to be ready for the App Store, but here's a sneak peek at some new things coming to Magic Budget in the next update!
 
