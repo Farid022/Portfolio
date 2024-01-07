@@ -32,14 +32,12 @@ Look no further! Introducing Twifty Quiz, the ultimate quiz app designed for asp
 - 🕐 Timers
 
 <p align="center">
-  <img src="https://github.com/Farid022/Portfolio/assets/107756341/01ef7a6c-2b37-4bbd-8ad1-fe9d35b6c9d7" width="150"/>
-  <img src="https://github.com/Farid022/Portfolio/assets/107756341/4edc306d-897b-44b6-b1cc-48ed1bd5fcdc" width="150"/>
-  <img src="https://github.com/Farid022/Portfolio/assets/107756341/833e2936-7c22-4ff8-8d08-6a95a890d967" width="150"/>
-  <img src="https://github.com/Farid022/Portfolio/assets/107756341/be4d2ec4-6a18-4f7b-919f-a7b4ca046e0d" width="150"/>
+  <img src="https://github.com/Farid022/Portfolio/assets/107756341/84ecd2ef-aa78-4df4-b352-c69f7c0dd4c9" width="140"/>
+  <img src="https://github.com/Farid022/Portfolio/assets/107756341/a019c78e-c3db-448a-8ef7-a8316742a640" width="140"/>
+  <img src="https://github.com/Farid022/Portfolio/assets/107756341/5da8801d-0383-4310-9723-3c6e4753e8d6" width="140"/>
+  <img src="https://github.com/Farid022/Portfolio/assets/107756341/b10d52d3-514d-402c-b2f0-ec86e838db54" width="140"/>
+  <img src="https://github.com/Farid022/Portfolio/assets/107756341/8eeb531e-dd38-4b8b-88b1-edcb2db2ee86" width="140"/>
 </p>
-
-
-
 
 
 # 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
