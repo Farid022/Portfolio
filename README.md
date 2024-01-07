@@ -40,13 +40,8 @@ Look no further! Introducing Twifty Quiz, the ultimate quiz app designed for asp
 </p>
 
 
-# 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
 
-# [Clockology](https://apps.apple.com/us/app/clockology/id1456386228)
-(Contract Work)
-I've had the opportunity to contribute to this incredible iOS App. Using SwiftUI, I've helped refresh some of the designs, implement a new generic Calendar and Chart layer for users to add to their watch faces, and help with various bug fixes.
-
-
+<!-- 
 
 ## Sneak Peek 👀
 Here are a few updates I've been hacking away at for Magic Budget. This update is yet to be ready for the App Store, but here's a sneak peek at some new things coming to Magic Budget in the next update!
@@ -74,8 +69,6 @@ This app has been a passion project of mine over the past couple years. Magic Bu
 <img src="https://user-images.githubusercontent.com/76922883/224447492-c8163fc6-7d5d-416c-913c-f9d9e0295392.PNG" width="200"/>
 <img src="https://user-images.githubusercontent.com/76922883/224447581-6896ca04-6ffe-4a87-8c9e-a45809ad1798.PNG" width="200"/>
 </p>
-
-
 
 **Tech Used**
 - 💿 Core Data
@@ -185,3 +178,4 @@ PencilKit is a powerhouse and central to this app, giving the user the ability t
 - ✏️ PencilKit
 - 📱 UIKit 
 - 💬 UIActivityViewController
+--!>
