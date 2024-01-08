@@ -21,7 +21,7 @@ Say goodbye to paperwork, and say hello to efficiency and digital gym management
   <img src="https://github.com/Farid022/Portfolio/assets/107756341/be4d2ec4-6a18-4f7b-919f-a7b4ca046e0d" width="150"/>
 </p>
 
-## [1. Twifty Quiz ](https://apps.apple.com/pk/app/twifty-quiz/id6464455110)
+## [2. Twifty Quiz ](https://apps.apple.com/pk/app/twifty-quiz/id6464455110)
 Are you passionate about iOS app development and the Swift programming language? Ready to put your Swift knowledge to the test?
 Look no further! Introducing Twifty Quiz, the ultimate quiz app designed for aspiring Swift developers and programming enthusiasts.
 
@@ -40,6 +40,22 @@ Look no further! Introducing Twifty Quiz, the ultimate quiz app designed for asp
 </p>
 
 
+## [3. Like Tiktoki ](https://github.com/Farid022/TikTokClone)
+It is similar to the tiktok app, but this Tiktoki has the transparent tabBar and work smoothly. 
+
+**Tech Used**
+- 🎨 SwiftUI
+- 💿 Firebase
+- 🏛️ MVVM Architecture
+- 📍 MapKit
+- 🏬 API and more
+
+<p align="center">
+  <img src="https://github.com/Farid022/Portfolio/assets/107756341/45cc533b-40cb-4fd4-845e-8739eca3fca6" width="140"/>
+  <img src="https://github.com/Farid022/Portfolio/assets/107756341/3c0338ae-bee7-40a7-a7ce-09fbac49f77e" width="140"/>
+  <img src="https://github.com/Farid022/Portfolio/assets/107756341/fc5758f0-26d0-433d-9138-822223d794c9" width="140"/>
+  <img src="https://github.com/Farid022/Portfolio/assets/107756341/7d6f2ff1-53c7-4358-bba8-a99d5ed74b8a" width="140"/>
+</p>
 
 <!-- 
 ## Sneak Peek 👀
