@@ -57,6 +57,24 @@ It is similar to the tiktok app, but this Tiktoki has the transparent tabBar and
   <img src="https://github.com/Farid022/Portfolio/assets/107756341/7d6f2ff1-53c7-4358-bba8-a99d5ed74b8a" width="140"/>
 </p>
 
+
+## [3. Dicefun4u ](.......)
+It is similar to the tiktok app, but this Tiktoki has the transparent tabBar and work smoothly. 
+
+**Tech Used**
+- 🎨 SwiftUI
+- 💿 Firebase
+- 🏛️ MVVM Architecture
+- 📍 MapKit
+- 🏬 API and more
+
+<p align="center">
+  <img src="" width="140"/>
+  <img src="" width="140"/>
+  <img src="" width="140"/>
+  <img src="" width="140"/>
+</p>
+
 <!-- 
 ## Sneak Peek 👀
 Here are a few updates I've been hacking away at for Magic Budget. This update is yet to be ready for the App Store, but here's a sneak peek at some new things coming to Magic Budget in the next update!
