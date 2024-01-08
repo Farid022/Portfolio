@@ -40,7 +40,7 @@ Look no further! Introducing Twifty Quiz, the ultimate quiz app designed for asp
 </p>
 
 
-## [3. Like Tiktoki ](https://github.com/Farid022/TikTokClone)
+## [3. Tiktoki ](https://github.com/Farid022/TikTokClone)
 It is similar to the tiktok app, but this Tiktoki has the transparent tabBar and work smoothly. 
 
 **Tech Used**
