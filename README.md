@@ -75,6 +75,11 @@ It is similar to the tiktok app, but this Tiktoki has the transparent tabBar and
   <img src="" width="140"/>
 </p>
 
+## My Resume
+[Role_iOSDev_2_+_yrsExperience.pdf](https://github.com/Farid022/Portfolio/files/13937345/Role_iOSDev_2_%2B_yrsExperience.pdf)
+
+
+
 <!-- 
 ## Sneak Peek 👀
 Here are a few updates I've been hacking away at for Magic Budget. This update is yet to be ready for the App Store, but here's a sneak peek at some new things coming to Magic Budget in the next update!
