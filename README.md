@@ -76,8 +76,7 @@ It is similar to the tiktok app, but this Tiktoki has the transparent tabBar and
 </p>
 
 ## My Resume
-[Role_iOSDev_2_+_yrsExperience.pdf](https://github.com/Farid022/Portfolio/files/13937345/Role_iOSDev_2_%2B_yrsExperience.pdf)
-
+<img width="547" alt="Screenshot 2024-01-15 at 2 47 46 PM" src="https://github.com/Farid022/Portfolio/assets/107756341/d6c31b6b-ac8a-41e1-b896-b2ec429f959b">
 
 
 <!-- 
