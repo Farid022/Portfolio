@@ -2,13 +2,10 @@
 
 ### 👋 Hi! I'm an iOS Developer. Here's a bit about my Apps.
 
+##
 
 ## Full time iOS dev at essenceWare Tech
 <img width="754" alt="Screenshot 2024-02-17 at 9 12 02 AM" src="https://github.com/Farid022/Portfolio/assets/107756341/b9f030fd-d623-42b3-b501-13c142ddf49a">
-![Yellow   Black Earn Money YouTube Thumbnail](https://github.com/Farid022/Portfolio/assets/107756341/65c5fca7-c37c-4d00-a7f6-1e63778b18f1)
-![Yellow   Black Earn Money YouTube Thumbnail](https://github.com/Farid022/Portfolio/assets/107756341/9013306d-edb4-4f21-ae9d-8a7eecf19372)
-
-
 
 ## In-app purchase
 <img width="1087" alt="Screenshot 2024-01-08 at 6 58 00 PM" src="https://github.com/Farid022/Portfolio/assets/107756341/1a29abfa-3eca-4b42-9dbe-ea6e9ad0d8c0">
