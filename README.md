@@ -5,7 +5,8 @@
 ##
 
 ## Full time iOS dev at essenceWare Tech
-<img width="754" alt="Screenshot 2024-02-17 at 9 12 02 AM" src="https://github.com/Farid022/Portfolio/assets/107756341/b9f030fd-d623-42b3-b501-13c142ddf49a">
+![WhatsApp Image 2024-05-29 at 17 40 46](https://github.com/Farid022/Portfolio/assets/107756341/afeda46c-7366-468c-b203-8eb96bb40771)
+
 
 ## In-app purchase
 <img width="1087" alt="Screenshot 2024-01-08 at 6 58 00 PM" src="https://github.com/Farid022/Portfolio/assets/107756341/1a29abfa-3eca-4b42-9dbe-ea6e9ad0d8c0">
@@ -67,21 +68,21 @@ It is similar to the tiktok app, but this Tiktoki has the transparent tabBar and
 </p>
 
 
-## [3. Dicefun4u ](.......)
+## [3. Plant Disease Detector](https://apps.apple.com/pk/app/plant-disease-detector/id6502377130)
 It is similar to the tiktok app, but this Tiktoki has the transparent tabBar and work smoothly. 
 
 **Tech Used**
-- 🎨 SwiftUI
-- 💿 Firebase
+- 🎨 Flutter
+- 💿 AI
 - 🏛️ MVVM Architecture
-- 📍 MapKit
-- 🏬 API and more
+- 📍 Complex UI
+- 🏬 Admob Ads and in-app purchases
 
 <p align="center">
-  <img src="" width="140"/>
-  <img src="" width="140"/>
-  <img src="" width="140"/>
-  <img src="" width="140"/>
+  <img src="![image1](https://github.com/Farid022/Portfolio/assets/107756341/51858509-4639-487d-aefb-20268baa3a00)" width="140"/>
+  <img src="![image2](https://github.com/Farid022/Portfolio/assets/107756341/348712d9-183e-41f4-a61f-7dd91c1752e3)" width="140"/>
+  <img src="![image3](https://github.com/Farid022/Portfolio/assets/107756341/0e309c78-62c1-46db-b873-f99f772dcbce)" width="140"/>
+  <img src="![image5](https://github.com/Farid022/Portfolio/assets/107756341/44708fdc-672e-42dd-a154-9e35029e7934)" width="140"/>
 </p>
 
 ## My Resume
