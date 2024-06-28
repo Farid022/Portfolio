@@ -2,9 +2,17 @@
 
 ### 👋 Hi! I'm an iOS Developer. Here's a bit about my Apps.
 
-##
+##Education Background
+#Done my bachelor in Software Engineering and Computer Science in College(Fsc)
+![WhatsApp Image 2024-06-28 at 11 12 47](https://github.com/Farid022/Portfolio/assets/107756341/326cbc00-fe09-48a0-b584-02160d3275d6)
 
-## Full time iOS dev at essenceWare Tech
+
+##PEC(Pakistan Engineering Council) Registered Engineer
+![WhatsApp Image 2024-06-28 at 11 12 46](https://github.com/Farid022/Portfolio/assets/107756341/3ac334aa-4ab0-4f10-8853-33e17ebfbb15)
+
+
+
+# Full time iOS dev at essenceWare Tech
 ![WhatsApp Image 2024-05-29 at 17 40 46](https://github.com/Farid022/Portfolio/assets/107756341/afeda46c-7366-468c-b203-8eb96bb40771)
 
 
