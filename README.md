@@ -10,7 +10,7 @@
 <img width="1087" alt="Screenshot 2024-01-08 at 6 58 00 PM" src="https://github.com/Farid022/Portfolio/assets/107756341/1a29abfa-3eca-4b42-9dbe-ea6e9ad0d8c0">
 
 
-## [1. GyMaster Gym Management](https://apps.apple.com/us/app/gymaster/id6463846522)
+## [1. GyMaster Gym Management](https://apps.apple.com/us/app/gymaster/id64638)
 Gym Management and gym workout - your all-in-one solution for your fitness centre's operations and enhancing your members' experience.
 Say goodbye to paperwork, and say hello to efficiency and digital gym management for bodybuilders and all home workouts and gym workout lovers.
 
@@ -29,7 +29,7 @@ Say goodbye to paperwork, and say hello to efficiency and digital gym management
   <img src="https://github.com/Farid022/Portfolio/assets/107756341/be4d2ec4-6a18-4f7b-919f-a7b4ca046e0d" width="150"/>
 </p>
 
-## [2. Twifty Quiz ](https://apps.apple.com/pk/app/twifty-quiz/id6464455110)
+## [2. Twifty Quiz ](https://apps.apple.com/pk/app/twifty-quiz/id64644)
 Are you passionate about iOS app development and the Swift programming language? Ready to put your Swift knowledge to the test?
 Look no further! Introducing Twifty Quiz, the ultimate quiz app designed for aspiring Swift developers and programming enthusiasts.
 
