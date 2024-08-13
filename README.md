@@ -67,7 +67,7 @@ It is similar to the tiktok app, but this Tiktoki has the transparent tabBar and
 
 
 ## [3. Plant Disease Detector](https://apps.apple.com/pk/app/plant-disease-detector/id6502377130)
-It is similar to the tiktok app, but this Tiktoki has the transparent tabBar and work smoothly. 
+It is AI plant disease detector app. User pick an image from gallery or take from camera and chatGPT-4 will detect the disease from the leaf or plant.. 
 
 **Tech Used**
 - 🎨 Flutter
